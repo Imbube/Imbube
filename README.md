@@ -2,7 +2,7 @@
 
 Estudante de TI com foco em operações, automação e ferramentas Atlassian.
 
-**Stack:** Python · FastAPI · pytest · Jira Cloud REST API · HTML/CSS/JavaScript · PHP
+**Stack:** Python · Jira Cloud REST API · HTML/CSS/JavaScript
 
 **Em destaque**
 
